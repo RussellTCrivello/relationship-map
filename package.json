@@ -1,0 +1,37 @@
+{
+  "name": "relationship-map-private",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Private relationship map with PostgreSQL persistence",
+  "main": "server/app.js",
+  "scripts": {
+    "prestart": "node scripts/build-tilepack.js",
+    "start": "node server/app.js",
+    "dev": "node --watch server/app.js",
+    "prepare-app": "node scripts/build-tilepack.js",
+    "test": "node --test tests/graph-validation.test.js tests/phase5.test.cjs tests/api-client.test.js tests/auth-client.test.js tests/auth-ui.test.cjs tests/tools-menu.test.cjs tests/dropdowns.test.cjs tests/ux-batch.test.cjs tests/desktop-backend.test.js tests/image-fetch.test.js tests/chronology.test.js tests/profile.test.js tests/file-pool-safety.test.js tests/geo.test.js tests/geo-io.test.js tests/geo-download.test.js tests/geo-area-store.test.js tests/zones.test.js tests/geo-labels.test.js tests/tiles.test.js tests/vectormap.test.js tests/map-raster.test.js tests/api.integration.test.js",
+    "migrate": "node server/migrate.js",
+    "build:vectormap": "node scripts/build-vector-map.js",
+    "test:e2e:1b": "node tests/e2e-phase1b.js",
+    "test:e2e:2a": "node tests/e2e-request2-a.js",
+    "test:e2e:2b": "node tests/e2e-request2-b.js",
+    "test:e2e:2c": "node tests/e2e-request2-c.js",
+    "test:e2e:2electron": "node tests/e2e-request2-electron.js",
+    "test:e2e:map-tools": "node tests/e2e-map-tools.js",
+    "test:e2e:4": "node tests/e2e-request4.js",
+    "test:e2e:4electron": "node tests/e2e-request4-electron.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "helmet": "^8.0.0",
+    "pg": "^8.13.1",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "playwright": "1.49.1"
+  }
+}

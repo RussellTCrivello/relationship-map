@@ -1,0 +1,8 @@
+node_modules/
+.env
+backups/*
+!backups/.gitkeep
+*.log
+*.tilepack
+offline_map/*.tilepack
+

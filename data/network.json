@@ -1,0 +1,1103 @@
+{
+  "nodes": [
+    {
+      "id": 156,
+      "label": "ليان السالمي",
+      "labelEn": "",
+      "schema": "Person",
+      "summary": "منسقة الفريق التطوعي؛ تتولى تنظيم المبادرات وتوزيع المهام.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        14982
+      ]
+    },
+    {
+      "id": 157,
+      "label": "عمر النجار",
+      "labelEn": "",
+      "schema": "Person",
+      "summary": "نائب المنسقة، ينسق التدريب وجدولة الأنشطة الميدانية.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        14982
+      ]
+    },
+    {
+      "id": 158,
+      "label": "مريم الحداد",
+      "labelEn": "",
+      "schema": "Person",
+      "summary": "تدير التواصل الرقمي وتنشر أخبار المبادرات والأنشطة.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        14982
+      ]
+    },
+    {
+      "id": 159,
+      "label": "سامر الخطيب",
+      "labelEn": "",
+      "schema": "Person",
+      "summary": "متطوع ميداني يشارك في تجهيز المستلزمات وتوثيق الأنشطة.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        14982
+      ]
+    },
+    {
+      "id": 160,
+      "label": "نور العبدلي",
+      "labelEn": "",
+      "schema": "Person",
+      "summary": "مسؤولة عن إدارة قنوات التواصل وتحديث معلومات الفعاليات.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        14982
+      ]
+    },
+    {
+      "id": 161,
+      "label": "كريم منصور",
+      "labelEn": "",
+      "schema": "Person",
+      "summary": "متطوع يشارك في تنظيم المواقع وتجهيز المعدات.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        14982
+      ]
+    },
+    {
+      "id": 162,
+      "label": "رامي درويش",
+      "labelEn": "",
+      "schema": "Person",
+      "summary": "عضو في الفريق يساعد في التنسيق ومراجعة المحتوى المنشور.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        14982
+      ]
+    },
+    {
+      "id": 163,
+      "label": "هبة فؤاد",
+      "labelEn": "",
+      "schema": "Person",
+      "summary": "متطوعة تشارك في التوعية المجتمعية وإعداد المنشورات.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        14982
+      ]
+    },
+    {
+      "id": 165,
+      "label": "فريق سند المجتمعي",
+      "labelEn": "",
+      "schema": "Person",
+      "summary": "عضو نشط يوثق التعاون بين المتطوعين خلال الفعاليات.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        14982
+      ]
+    },
+    {
+      "id": 166,
+      "label": "صوت الحي",
+      "labelEn": "",
+      "schema": "Person",
+      "summary": "حساب افتراضي يستخدم لنشر إعلانات الفريق ومعلومات الأنشطة.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        14982
+      ]
+    },
+    {
+      "id": 167,
+      "label": "عابر سبيل",
+      "labelEn": "",
+      "schema": "Person",
+      "summary": "متطوع يظهر في صور الأنشطة المشتركة.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        14982
+      ]
+    },
+    {
+      "id": 168,
+      "label": "ياسر أمين",
+      "labelEn": "",
+      "schema": "Person",
+      "summary": "متطوع ضمن الفريق، يشارك في تنفيذ المبادرات وتنسيقها.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        14982
+      ]
+    },
+    {
+      "id": 169,
+      "label": "دانا يوسف",
+      "labelEn": "",
+      "schema": "Person",
+      "summary": "متطوعة مساندة تشارك في أنشطة الفريق عند الحاجة.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        14982
+      ]
+    },
+    {
+      "id": 188,
+      "label": "مركز النخيل المجتمعي",
+      "labelEn": "",
+      "schema": "Address",
+      "summary": "مقر افتراضي تُعقد فيه اجتماعات الفريق وتُجهّز منه المبادرات.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        14982
+      ]
+    },
+    {
+      "id": 192,
+      "label": "حديقة الندى العامة",
+      "labelEn": "",
+      "schema": "Address",
+      "summary": "موقع افتراضي تُقام فيه بعض أنشطة الخدمة المجتمعية.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        14982
+      ]
+    },
+    {
+      "id": 195,
+      "date": "2026-03-14",
+      "label": "حملة الحي الأخضر",
+      "labelEn": "",
+      "schema": "Event",
+      "summary": "فعالية افتراضية لتنظيف الحي وزراعة الأشجار وتنسيق مشاركة المتطوعين.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        14982
+      ]
+    },
+    {
+      "id": 14288,
+      "date": "2026-05-02",
+      "label": "ورشة السلامة المجتمعية",
+      "labelEn": "",
+      "schema": "Event",
+      "summary": "فعالية تدريبية افتراضية للتعريف بإجراءات السلامة وتنظيم العمل التطوعي.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        14982
+      ]
+    },
+    {
+      "id": 14982,
+      "label": "فريق مبادرة الحي الأخضر",
+      "labelEn": "",
+      "schema": "Organization",
+      "summary": "منظمة تطوعية افتراضية تعمل على تحسين المساحات العامة وتنظيم المبادرات المجتمعية.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "تطوعي",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        14982
+      ]
+    },
+    {
+      "id": 170,
+      "label": "سارة الكيلاني",
+      "labelEn": "",
+      "schema": "Person",
+      "summary": "منسقة مبادرة دروب المعرفة، تخطط للأنشطة وتنسق التعاون مع الفرق المحلية.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        15000
+      ]
+    },
+    {
+      "id": 171,
+      "label": "مازن الشامي",
+      "labelEn": "",
+      "schema": "Person",
+      "summary": "مسؤول تنظيم الفعاليات وتجهيز المواد التعليمية.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        15000
+      ]
+    },
+    {
+      "id": 172,
+      "label": "جود عارف",
+      "labelEn": "",
+      "schema": "Person",
+      "summary": "تدير المحتوى والتواصل مع المتطوعين والمشاركين.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        15000
+      ]
+    },
+    {
+      "id": 173,
+      "label": "زياد ناصر",
+      "labelEn": "",
+      "schema": "Person",
+      "summary": "متطوع يهتم بإعادة استخدام الكتب وتجهيز أركان القراءة.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        15000
+      ]
+    },
+    {
+      "id": 193,
+      "label": "قاعة أفق المجتمعية",
+      "labelEn": "",
+      "schema": "Address",
+      "summary": "قاعة افتراضية مخصصة للأنشطة الثقافية والورش المجتمعية.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        15000
+      ]
+    },
+    {
+      "id": 196,
+      "date": "2026-07-19",
+      "label": "يوم القراءة المفتوح",
+      "labelEn": "",
+      "schema": "Event",
+      "summary": "فعالية تجمع القراء والمتطوعين لتبادل الكتب وتنظيم جلسات قراءة قصيرة.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        15000,
+        14982
+      ]
+    },
+    {
+      "id": 197,
+      "date": "2026-09-05",
+      "label": "ورشة تدوير الكتب",
+      "labelEn": "",
+      "schema": "Event",
+      "summary": "ورشة لإصلاح الكتب المستعملة وتجهيزها للتبادل وإعادة الاستخدام.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        15000
+      ]
+    },
+    {
+      "id": 15000,
+      "label": "مبادرة دروب المعرفة",
+      "labelEn": "",
+      "schema": "Organization",
+      "summary": "فريق تطوعي افتراضي ينظم أنشطة القراءة وتبادل الكتب والتعلم المجتمعي.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "مبادرة مجتمعية",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        15000
+      ]
+    },
+    {
+      "id": 15001,
+      "label": "مكتبة أفق المجتمعية",
+      "labelEn": "",
+      "schema": "Organization",
+      "summary": "شريك مجتمعي افتراضي يوفر الكتب والمساحة للأنشطة الثقافية.",
+      "status": "active",
+      "photo": "",
+      "legalForm": "مؤسسة مجتمعية",
+      "country": "XX",
+      "url": "",
+      "boundary": false,
+      "subjects": [
+        15000
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": 23,
+      "source": 156,
+      "target": 188,
+      "type": "Located_At",
+      "label": "موقع نشاط",
+      "role": "",
+      "confidence": 85,
+      "status": "active"
+    },
+    {
+      "id": 24,
+      "source": 157,
+      "target": 188,
+      "type": "Located_At",
+      "label": "موقع نشاط",
+      "role": "",
+      "confidence": 85,
+      "status": "active"
+    },
+    {
+      "id": 25,
+      "source": 158,
+      "target": 188,
+      "type": "Located_At",
+      "label": "موقع نشاط",
+      "role": "",
+      "confidence": 85,
+      "status": "active"
+    },
+    {
+      "id": 26,
+      "source": 159,
+      "target": 188,
+      "type": "Located_At",
+      "label": "موقع نشاط",
+      "role": "",
+      "confidence": 85,
+      "status": "active"
+    },
+    {
+      "id": 27,
+      "source": 160,
+      "target": 188,
+      "type": "Located_At",
+      "label": "موقع نشاط",
+      "role": "",
+      "confidence": 85,
+      "status": "active"
+    },
+    {
+      "id": 28,
+      "source": 161,
+      "target": 188,
+      "type": "Located_At",
+      "label": "موقع نشاط",
+      "role": "",
+      "confidence": 85,
+      "status": "active"
+    },
+    {
+      "id": 29,
+      "source": 162,
+      "target": 188,
+      "type": "Located_At",
+      "label": "موقع نشاط",
+      "role": "",
+      "confidence": 85,
+      "status": "active"
+    },
+    {
+      "id": 30,
+      "source": 165,
+      "target": 188,
+      "type": "Located_At",
+      "label": "موقع نشاط",
+      "role": "",
+      "confidence": 85,
+      "status": "active"
+    },
+    {
+      "id": 31,
+      "source": 168,
+      "target": 188,
+      "type": "Located_At",
+      "label": "موقع نشاط",
+      "role": "",
+      "confidence": 85,
+      "status": "active"
+    },
+    {
+      "id": 32,
+      "source": 156,
+      "target": 192,
+      "type": "Located_At",
+      "label": "موقع نشاط",
+      "role": "",
+      "confidence": 85,
+      "status": "active"
+    },
+    {
+      "id": 35,
+      "source": 156,
+      "target": 195,
+      "type": "Participated_In",
+      "label": "مشاركة في فعالية",
+      "role": "",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 36,
+      "source": 157,
+      "target": 14982,
+      "type": "Membership",
+      "label": "عضوية",
+      "role": "نائب المنسقة",
+      "confidence": 90,
+      "status": "active"
+    },
+    {
+      "id": 37,
+      "source": 158,
+      "target": 14982,
+      "type": "Membership",
+      "label": "عضوية",
+      "role": "عضو متطوع",
+      "confidence": 90,
+      "status": "active"
+    },
+    {
+      "id": 38,
+      "source": 159,
+      "target": 14982,
+      "type": "Membership",
+      "label": "عضوية",
+      "role": "عضو متطوع",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 39,
+      "source": 160,
+      "target": 14982,
+      "type": "Membership",
+      "label": "عضوية",
+      "role": "عضو متطوع",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 40,
+      "source": 161,
+      "target": 14982,
+      "type": "Membership",
+      "label": "عضوية",
+      "role": "عضو متطوع",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 42,
+      "source": 163,
+      "target": 14982,
+      "type": "Membership",
+      "label": "عضوية",
+      "role": "عضو متطوع",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 44,
+      "source": 165,
+      "target": 14982,
+      "type": "Membership",
+      "label": "عضوية",
+      "role": "عضو متطوع",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 45,
+      "source": 166,
+      "target": 14982,
+      "type": "Membership",
+      "label": "عضوية",
+      "role": "عضو متطوع",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 46,
+      "source": 167,
+      "target": 14982,
+      "type": "Membership",
+      "label": "عضوية",
+      "role": "عضو متطوع",
+      "confidence": 45,
+      "status": "active"
+    },
+    {
+      "id": 47,
+      "source": 168,
+      "target": 14982,
+      "type": "Membership",
+      "label": "عضوية",
+      "role": "عضو متطوع",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 48,
+      "source": 169,
+      "target": 14982,
+      "type": "Membership",
+      "label": "عضوية",
+      "role": "عضو متطوع",
+      "confidence": 45,
+      "status": "active"
+    },
+    {
+      "id": 49,
+      "source": 162,
+      "target": 156,
+      "type": "Impersonates",
+      "label": "إدارة حساب تمثيلي",
+      "role": "حساب تجريبي ضمن سيناريو توعوي",
+      "confidence": 90,
+      "status": "active"
+    },
+    {
+      "id": 50,
+      "source": 157,
+      "target": 158,
+      "type": "Associate",
+      "label": "تعاون",
+      "role": "",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 54,
+      "source": 157,
+      "target": 162,
+      "type": "Associate",
+      "label": "تعاون",
+      "role": "",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 57,
+      "source": 157,
+      "target": 168,
+      "type": "Associate",
+      "label": "تعاون",
+      "role": "",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 58,
+      "source": 158,
+      "target": 159,
+      "type": "Associate",
+      "label": "تعاون",
+      "role": "",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 59,
+      "source": 158,
+      "target": 160,
+      "type": "Associate",
+      "label": "تعاون",
+      "role": "",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 60,
+      "source": 158,
+      "target": 161,
+      "type": "Associate",
+      "label": "تعاون",
+      "role": "",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 61,
+      "source": 158,
+      "target": 165,
+      "type": "Associate",
+      "label": "تعاون",
+      "role": "",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 62,
+      "source": 158,
+      "target": 168,
+      "type": "Associate",
+      "label": "تعاون",
+      "role": "",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 83,
+      "source": 158,
+      "target": 195,
+      "type": "Participated_In",
+      "label": "مشاركة في فعالية",
+      "role": "",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 84,
+      "source": 160,
+      "target": 14288,
+      "type": "Participated_In",
+      "label": "مشاركة في فعالية",
+      "role": "",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 86,
+      "source": 156,
+      "target": 14982,
+      "type": "Membership",
+      "label": "عضوية",
+      "role": "منسقة الفريق",
+      "confidence": 90,
+      "status": "active"
+    },
+    {
+      "id": 87,
+      "source": 158,
+      "target": 156,
+      "type": "Family",
+      "label": "صلة عائلية",
+      "role": "صلة افتراضية ضمن بيانات الاختبار",
+      "confidence": 90,
+      "status": "active"
+    },
+    {
+      "id": 88,
+      "source": 157,
+      "target": 159,
+      "type": "Associate",
+      "label": "تعاون",
+      "role": "",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 89,
+      "source": 157,
+      "target": 160,
+      "type": "Associate",
+      "label": "تعاون",
+      "role": "",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 90,
+      "source": 157,
+      "target": 161,
+      "type": "Associate",
+      "label": "تعاون",
+      "role": "",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 91,
+      "source": 157,
+      "target": 163,
+      "type": "Associate",
+      "label": "تعاون",
+      "role": "",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 92,
+      "source": 157,
+      "target": 165,
+      "type": "Associate",
+      "label": "تعاون",
+      "role": "",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 93,
+      "source": 165,
+      "target": 168,
+      "type": "Associate",
+      "label": "تعاون",
+      "role": "",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 94,
+      "source": 167,
+      "target": 165,
+      "type": "Associate",
+      "label": "تعاون",
+      "role": "",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 95,
+      "source": 159,
+      "target": 160,
+      "type": "Associate",
+      "label": "تعاون",
+      "role": "",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 96,
+      "source": 160,
+      "target": 161,
+      "type": "Associate",
+      "label": "تعاون",
+      "role": "",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 98,
+      "source": 162,
+      "target": 14982,
+      "type": "Membership",
+      "label": "عضوية",
+      "role": "عضو متطوع",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 99,
+      "source": 195,
+      "target": 165,
+      "type": "Participated_In",
+      "label": "مشاركة في فعالية",
+      "role": "",
+      "confidence": 70,
+      "status": "active"
+    },
+    {
+      "id": 100,
+      "source": 170,
+      "target": 15000,
+      "type": "Membership",
+      "label": "عضوية",
+      "role": "منسقة المبادرة",
+      "confidence": 95,
+      "status": "active"
+    },
+    {
+      "id": 101,
+      "source": 171,
+      "target": 15000,
+      "type": "Membership",
+      "label": "عضوية",
+      "role": "تنظيم الفعاليات",
+      "confidence": 90,
+      "status": "active"
+    },
+    {
+      "id": 102,
+      "source": 172,
+      "target": 15000,
+      "type": "Membership",
+      "label": "عضوية",
+      "role": "التواصل والمحتوى",
+      "confidence": 90,
+      "status": "active"
+    },
+    {
+      "id": 103,
+      "source": 173,
+      "target": 15000,
+      "type": "Membership",
+      "label": "عضوية",
+      "role": "متطوع",
+      "confidence": 85,
+      "status": "active"
+    },
+    {
+      "id": 104,
+      "source": 15001,
+      "target": 15000,
+      "type": "Associate",
+      "label": "شراكة مجتمعية",
+      "role": "توفير الكتب والمساحة",
+      "confidence": 90,
+      "status": "active"
+    },
+    {
+      "id": 105,
+      "source": 170,
+      "target": 193,
+      "type": "Located_At",
+      "label": "موقع نشاط",
+      "role": "تنسيق الفعالية",
+      "confidence": 90,
+      "status": "active"
+    },
+    {
+      "id": 106,
+      "source": 171,
+      "target": 193,
+      "type": "Located_At",
+      "label": "موقع نشاط",
+      "role": "تجهيز القاعة",
+      "confidence": 85,
+      "status": "active"
+    },
+    {
+      "id": 107,
+      "source": 172,
+      "target": 193,
+      "type": "Located_At",
+      "label": "موقع نشاط",
+      "role": "استقبال المشاركين",
+      "confidence": 85,
+      "status": "active"
+    },
+    {
+      "id": 108,
+      "source": 173,
+      "target": 193,
+      "type": "Located_At",
+      "label": "موقع نشاط",
+      "role": "ترتيب الكتب",
+      "confidence": 85,
+      "status": "active"
+    },
+    {
+      "id": 109,
+      "source": 171,
+      "target": 196,
+      "type": "Participated_In",
+      "label": "مشاركة في فعالية",
+      "role": "تنظيم",
+      "confidence": 90,
+      "status": "active"
+    },
+    {
+      "id": 110,
+      "source": 172,
+      "target": 196,
+      "type": "Participated_In",
+      "label": "مشاركة في فعالية",
+      "role": "التواصل والإعلان",
+      "confidence": 90,
+      "status": "active"
+    },
+    {
+      "id": 111,
+      "source": 173,
+      "target": 197,
+      "type": "Participated_In",
+      "label": "مشاركة في فعالية",
+      "role": "تجهيز الكتب",
+      "confidence": 90,
+      "status": "active"
+    },
+    {
+      "id": 112,
+      "source": 196,
+      "target": 193,
+      "type": "Located_At",
+      "label": "مقامة في",
+      "role": "الموقع الرئيسي",
+      "confidence": 95,
+      "status": "active"
+    },
+    {
+      "id": 113,
+      "source": 197,
+      "target": 193,
+      "type": "Located_At",
+      "label": "مقامة في",
+      "role": "قاعة الورشة",
+      "confidence": 95,
+      "status": "active"
+    },
+    {
+      "id": 114,
+      "source": 170,
+      "target": 156,
+      "type": "Associate",
+      "label": "تعاون بين الفريقين",
+      "role": "تنسيق مبادرات مشتركة",
+      "confidence": 85,
+      "status": "active"
+    },
+    {
+      "id": 115,
+      "source": 196,
+      "target": 195,
+      "type": "Associate",
+      "label": "فعالية مشتركة",
+      "role": "ركن تبادل الكتب ضمن حملة الحي الأخضر",
+      "confidence": 80,
+      "status": "active"
+    },
+    {
+      "id": 116,
+      "source": 171,
+      "target": 158,
+      "type": "Associate",
+      "label": "تعاون",
+      "role": "تنسيق التغطية الإعلامية للفعالية",
+      "confidence": 75,
+      "status": "active"
+    },
+    {
+      "id": 117,
+      "source": 15000,
+      "target": 196,
+      "type": "Associate",
+      "label": "تنظم",
+      "role": "الجهة المنظمة",
+      "confidence": 95,
+      "status": "active"
+    },
+    {
+      "id": 118,
+      "source": 15001,
+      "target": 197,
+      "type": "Associate",
+      "label": "تدعم",
+      "role": "توفير الكتب والأدوات",
+      "confidence": 85,
+      "status": "active"
+    },
+    {
+      "id": 119,
+      "source": 170,
+      "target": 172,
+      "type": "Associate",
+      "label": "تعاون داخلي",
+      "role": "التخطيط والتواصل",
+      "confidence": 85,
+      "status": "active"
+    }
+  ]
+}

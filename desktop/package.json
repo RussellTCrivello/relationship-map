@@ -1,0 +1,80 @@
+{
+  "name": "relationship-map-desktop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Desktop version of the relationship map (Windows). Data is stored in a local file; no database server is needed.",
+  "author": "AAE Group",
+  "main": "main.js",
+  "scripts": {
+    "start": "node scripts/prepare.js && electron .",
+    "prepare-app": "node scripts/prepare.js",
+    "dist": "node scripts/prepare.js && electron-builder --win"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "helmet": "^8.0.0",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "electron": "^33.2.1",
+    "electron-builder": "^25.1.8"
+  },
+  "build": {
+    "appId": "com.aae.relationshipmap",
+    "productName": "RelationshipMap",
+    "directories": {
+      "output": "dist",
+      "buildResources": "build"
+    },
+    "files": [
+      "main.js",
+      "backend.js",
+      "build/icon.png",
+      "app/**/*",
+      "!app/backups/**",
+      "!app/node_modules/**",
+      "!app/tests/**",
+      "!app/desktop/**"
+    ],
+    "extraResources": [
+      {
+        "from": "../offline_map/gaza.tilepack",
+        "to": "offline_map/gaza.tilepack"
+      },
+      {
+        "from": "../offline_map/gaza.vectormap.json",
+        "to": "offline_map/gaza.vectormap.json"
+      }
+    ],
+    "win": {
+      "icon": "build/icon.png",
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        },
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ]
+    },
+    "nsis": {
+      "oneClick": true,
+      "perMachine": false,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "خريطة العلاقات",
+      "runAfterFinish": true,
+      "deleteAppDataOnUninstall": false
+    },
+    "portable": {
+      "artifactName": "RelationshipMap-Portable.exe"
+    }
+  }
+}
